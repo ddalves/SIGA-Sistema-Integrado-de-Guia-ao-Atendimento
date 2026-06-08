@@ -1,4 +1,4 @@
-# SIGA - Sistema Inteligente de Guia ao Atendimento
+# SIGA - Sistema Indoor de Guia ao Atendimento
 
 **Mapeamento Indoor por Wi-Fi Fingerprinting | IoT, Engenharia de Dados e IA na Saúde**
 
